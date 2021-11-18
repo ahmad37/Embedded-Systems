@@ -1,0 +1,6 @@
+--c99 --gnu -c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections
+-I.\RTE\_Target_TM4C1230H6PM
+-IC:\Users\Ahmad\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include
+-IC:\Users\Ahmad\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123
+-D__UVISION_VERSION="529" -D_RTE_ -DTM4C1230H6PM
+-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d "main.c"
