@@ -1,10 +1,3 @@
-/*
- * main.c
- *
- *  Created on: Aug 10, 2020
- *      Author: mazen
- */
-
 
 
 #include "STD_TYPES.h"

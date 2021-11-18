@@ -1,9 +1,4 @@
-/*
- * DIO_program.c
- *
- *  Created on: Aug 12, 2020
- *      Author: mazen
- */
+
 
 #include "STD_TYPES.h"
 #include "BIT_CALC.h"

@@ -1,10 +1,3 @@
-/*
- * LED.c
-
- *
- *  Created on: Aug 15, 2020
- *      Author: mazen
- */
 
 #include "LED.h"
 

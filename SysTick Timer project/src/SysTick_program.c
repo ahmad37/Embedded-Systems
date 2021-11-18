@@ -1,9 +1,3 @@
-/*
- * SysTick_program.c
- *
- *  Created on: Aug 24, 2020
- *      Author: mazen
- */
 
 #include "STD_TYPES.h"
 #include "BIT_CALC.h"

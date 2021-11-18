@@ -1,11 +1,4 @@
-/*
 
-Author	:	Mazen
-date	:	(2020-08-08 ) 
-Version	:	V1.0
-
-
-*/
 
 #include "STD_TYPES.h"
 #include "BIT_CALC.h"
