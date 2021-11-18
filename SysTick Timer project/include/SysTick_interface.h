@@ -1,9 +1,4 @@
-/*
- * SysTick_interface.h
- *
- *  Created on: Aug 24, 2020
- *      Author: mazen
- */
+
 
 #ifndef INCLUDE_SYSTICK_INTERFACE_H_
 #define INCLUDE_SYSTICK_INTERFACE_H_

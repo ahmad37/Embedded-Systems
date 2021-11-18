@@ -1,11 +1,4 @@
-/*
 
-Author	:	Mazen
-date	:	(2020-08-08 ) 
-Version	:	V1.0
-
-
-*/
 #ifndef RCC_PRIVATE_H
 #define RCC_PRIVATE_H
 

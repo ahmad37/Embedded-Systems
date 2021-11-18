@@ -1,9 +1,3 @@
-/*
- * LED.h
- *
- *  Created on: Aug 15, 2020
- *      Author: mazen
- */
 
 #ifndef INCLUDE_LED_H_
 #define INCLUDE_LED_H_

@@ -1,9 +1,3 @@
-/*
- * DIO_interface.h
- *
- *  Created on: Aug 12, 2020
- *      Author: mazen
- */
 
 #ifndef INCLUDE_DIO_INTERFACE_H_
 #define INCLUDE_DIO_INTERFACE_H_

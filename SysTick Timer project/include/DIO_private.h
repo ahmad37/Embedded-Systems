@@ -1,9 +1,3 @@
-/*
- * DIO_private.h
- *
- *  Created on: Aug 12, 2020
- *      Author: mazen
- */
 
 #ifndef INCLUDE_DIO_PRIVATE_H_
 #define INCLUDE_DIO_PRIVATE_H_
