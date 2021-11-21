@@ -1,8 +1,9 @@
 /*****************************************************/
- /* Author      : mosad                              */
- /* Version     : v01                                */
- /* date        : 14/8/2020                          */
+/* Author      : Ahmad                               */
+/* date        : 8/9/2020                            */
 /*****************************************************/
+
+
 /*
 	* The SSD module will be in the HAL layer and dependant on RCC and GPIO modules in the MCAL
 	* the module has three basic functions one to intialize the SSD you can intialize more than one
