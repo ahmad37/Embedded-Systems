@@ -1,23 +1,0 @@
-Dependencies for Project 'UltraSonic', Target 'Target TM4C1230H6PM': (DO NOT MODIFY !)
-CompilerVersion: 5060750::V5.06 update 6 (build 750)::ARMCC
-F (.\main.c)(0x5F72ED27)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_TM4C1230H6PM-IC:\Users\Ahmad\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Ahmad\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C1230H6PM-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
-I (C:\Users\Ahmad\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530EF2F6)
-I (C:\Users\Ahmad\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C1230H6PM.h)(0x550FE22C)
-I (C:\Users\Ahmad\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F2582)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B2678)
-I (C:\Users\Ahmad\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F2582)
-I (C:\Users\Ahmad\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E835B22)
-I (C:\Users\Ahmad\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F2582)
-I (C:\Users\Ahmad\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F2582)
-I (C:\Users\Ahmad\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B6E406)
-F (RTE\Device\TM4C1230H6PM\startup_TM4C123.s)(0x51B6E406)(--cpu Cortex-M4.fp.sp -g --apcs=interwork -I.\RTE\_Target_TM4C1230H6PM-IC:\Users\Ahmad\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Ahmad\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 529" --pd "_RTE_ SETA 1" --pd "TM4C1230H6PM SETA 1"--list .\listings\startup_tm4c123.lst --xref -o .\objects\startup_tm4c123.o --depend .\objects\startup_tm4c123.d)
-F (RTE\Device\TM4C1230H6PM\system_TM4C123.c)(0x5F72EE1E)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_TM4C1230H6PM-IC:\Users\Ahmad\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Ahmad\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C1230H6PM-o .\objects\system_tm4c123.o --omf_browse .\objects\system_tm4c123.crf --depend .\objects\system_tm4c123.d)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B2678)
-I (C:\Users\Ahmad\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530EF2F6)
-I (C:\Users\Ahmad\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C1230H6PM.h)(0x550FE22C)
-I (C:\Users\Ahmad\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F2582)
-I (C:\Users\Ahmad\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F2582)
-I (C:\Users\Ahmad\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E835B22)
-I (C:\Users\Ahmad\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F2582)
-I (C:\Users\Ahmad\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F2582)
-I (C:\Users\Ahmad\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B6E406)
