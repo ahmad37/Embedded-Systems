@@ -48,5 +48,12 @@ Contain the applcation code that you want to build.
 
 ![Modules](https://github.com/ahmad37/Embedded-Systems/assets/31402712/1607f672-fd22-49ab-a24d-8b41b754fa9a)
 
+
+
+
+  ## Author. 
+     Ahmad Abdulrahem 
+     Ahmad.abdulrahem1@gmail.com
+
     
 
