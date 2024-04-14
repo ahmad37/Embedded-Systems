@@ -1,8 +1,8 @@
 
 # STM32 ARM Deice Drivers
- This reposoitry containing devic drivers for STM32 Arm Based Microcontrollers but you can use different ARM-Based microcontrollers with minimumm changes. 
+ This repository containing devic drivers for STM32 Arm Based Microcontrollers but you can use different ARM-Based microcontrollers with minimumm changes. 
 
-## Layed Architecture 
+## Layered Architecture 
   The codes are written based on layed Architecture concept. 
 As each layer is responsible to make a specific type of work. 
 #### Usuall any upper layer can call the down layer and not vice versa. 
@@ -12,12 +12,12 @@ As each layer is responsible to make a specific type of work.
 #### ----------------------------------------------------------------------------
 
 ####   Microcontrollers Abstraction Layer (MCAL): 
-  It's responsible to interact with the  bare-metal microcontrollers and it's core peripherals. 
+  It's responsible to interact with the bare-metal microcontrollers and it's core peripherals. 
 
   
 
 ####  Hardware Abstraction Layer (HAL): 
-It's responsible to interact with different hardware componets such as sensors  and input/outout devices like Keypads, LCDs, 7-Segments and others.
+It's responsible to interact with different hardware components such as sensors  and input/output devices like Keypads, LCDs, 7-Segments and others.
 
 #### Service Layer 
  containing services modules such as OS services and Schedulers.
@@ -26,11 +26,11 @@ It's responsible to interact with different hardware componets such as sensors  
 Contain the applcation code that you want to build. 
 
 #### Library Layer (LIB): 
- it is a Shared layered between all layers it can  be used in any layer which is shared with it. 
+ It is a Shared layered between all layers and it can be used in any layer which is shared with it. 
 
 
 ## Note 
-   This Design it vary based on your design and your application you want to build. 
+   This Design it vary based on your design and your application logic you want to build. 
 
 
 ## Modules
